@@ -31,7 +31,7 @@ This project leverages the power of:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/saoud30/Audio-AI.git
    ```
 2. **Install Dependencies:**
    ```bash
