@@ -1,0 +1,15 @@
+streamlit==1.32.0
+assemblyai==0.17.0
+python-dotenv==1.0.1
+pandas==2.2.0
+plotly==5.18.0
+numpy>=1.24.3
+requests>=2.31.0
+pillow>=10.0.0
+python-dateutil>=2.8.2
+pytz>=2024.1
+six>=1.16.0
+typing-extensions>=4.5.0
+urllib3>=2.0.7
+watchdog>=3.0.0
+websockets>=11.0.3
